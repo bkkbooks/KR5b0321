@@ -15,6 +15,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR5b0321_HFL_007-001a02}
   - {type: indent, offset: 0, content: 　　, id: KR5b0321_krp_007-bkkind1}
   - {type: punctuation, offset: 0, content: (, id: KR5b0321_krp_007-bkkpn1}
+  - {type: voice, offset: 0, length: 20, name: note, id: n1}
   - {type: punctuation, offset: 15, content: /, id: KR5b0321_krp_007-bkkpn2}
   - {type: punctuation, offset: 20, content: ), id: KR5b0321_krp_007-bkkpn3}
   - {type: 'kr:newline', offset: 20, content: '
@@ -1301,4 +1302,4 @@ markers:
   - {type: variant, offset: 3586, length: 0, content: '', SBCK: 廣成集卷之八敢八上都太清宮}
   - {type: page-break, offset: 3586, content: '', id: KR5b0321_SBCK_008-1a}
   back: []
-hash: sha256:1a7924cde051c9c24e8c1da09f08c7bd79270a180c45f9848b8f9ca537175a88
+hash: sha256:860ca4706acbdb11fed2b188066121b5799abf76031593074ba1fea92d73f889

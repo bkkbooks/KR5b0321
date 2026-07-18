@@ -15,6 +15,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR5b0321_HFL_003-001a02}
   - {type: indent, offset: 0, content: 　　, id: KR5b0321_krp_003-bkkind1}
   - {type: punctuation, offset: 0, content: (, id: KR5b0321_krp_003-bkkpn1}
+  - {type: voice, offset: 0, length: 20, name: note, id: n1}
   - {type: substitution, offset: 5, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: substitution, offset: 7, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: substitution, offset: 13, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
@@ -915,6 +916,7 @@ markers:
       ', id: KR5b0321_krp_003-bkkkrnewl189}
   - {type: line-break, offset: 2607, content: '', id: KR5b0321_HFL_003-009b03}
   - {type: punctuation, offset: 2623, content: (, id: KR5b0321_krp_003-bkkpn4}
+  - {type: voice, offset: 2623, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2624, content: /, id: KR5b0321_krp_003-bkkpn5}
   - {type: punctuation, offset: 2625, content: ), id: KR5b0321_krp_003-bkkpn6}
   - {type: 'kr:newline', offset: 2625, content: '
@@ -1165,4 +1167,4 @@ markers:
   - {type: variant, offset: 3315, length: 0, content: '', SBCK: 廣成集卷之四敢四上都太清宮内供奉應制文章大徳}
   - {type: page-break, offset: 3315, content: '', id: KR5b0321_SBCK_004-1a}
   back: []
-hash: sha256:5a9d18bc54acfbf292aab369812bd4a431493e7819639a656e75925918707ee7
+hash: sha256:0d008067e0d8cb268ccbd101d56ddb9c03b76fbd774fed35c1e9a2452c736347

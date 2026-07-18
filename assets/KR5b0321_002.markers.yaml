@@ -15,6 +15,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR5b0321_HFL_002-001a02}
   - {type: indent, offset: 0, content: 　　, id: KR5b0321_krp_002-bkkind1}
   - {type: punctuation, offset: 0, content: (, id: KR5b0321_krp_002-bkkpn1}
+  - {type: voice, offset: 0, length: 20, name: note, id: n1}
   - {type: substitution, offset: 5, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 20, content: ), id: KR5b0321_krp_002-bkkpn2}
   - {type: 'kr:newline', offset: 20, content: '
@@ -1712,4 +1713,4 @@ markers:
   - {type: variant, offset: 4794, length: 0, content: '', SBCK: 廣成集卷之三敢三上都太清宮内供奉}
   - {type: page-break, offset: 4794, content: '', id: KR5b0321_SBCK_003-1a}
   back: []
-hash: sha256:1349448af788a55d77fe3aada3a1e4282546f2cbb4d23e8bc4d3083e3472a8d0
+hash: sha256:a072318564e980c3762079788d03b07e837885a9204740ec0a64cdb2c51a4d87

@@ -13,6 +13,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR5b0321_SJB_016-110303a02}
   - {type: indent, offset: 0, content: 　　, id: KR5b0321_ZTDZ_016-bkkind1}
   - {type: punctuation, offset: 0, content: (, id: KR5b0321_ZTDZ_016-bkkpn1}
+  - {type: voice, offset: 0, length: 20, name: note, id: n1}
   - {type: punctuation, offset: 15, content: /, id: KR5b0321_ZTDZ_016-bkkpn2}
   - {type: punctuation, offset: 20, content: ), id: KR5b0321_ZTDZ_016-bkkpn3}
   - {type: 'kr:newline', offset: 20, content: '
@@ -456,6 +457,7 @@ markers:
       ', id: KR5b0321_ZTDZ_016-bkkkrnewl103}
   - {type: line-break, offset: 1659, content: '', id: KR5b0321_SJB_016-110304c04}
   - {type: punctuation, offset: 1659, content: (, id: KR5b0321_ZTDZ_016-bkkpn4}
+  - {type: voice, offset: 1659, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1660, content: ), id: KR5b0321_ZTDZ_016-bkkpn5}
   - {type: 'kr:newline', offset: 1676, content: '
 
@@ -746,6 +748,7 @@ markers:
       ', id: KR5b0321_ZTDZ_016-bkkp9}
   - {type: line-break, offset: 2733, content: '', id: KR5b0321_SJB_016-110305c11}
   - {type: punctuation, offset: 2744, content: (, id: KR5b0321_ZTDZ_016-bkkpn6}
+  - {type: voice, offset: 2744, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2745, content: ), id: KR5b0321_ZTDZ_016-bkkpn7}
   - {type: 'kr:newline', offset: 2750, content: '
 
@@ -776,6 +779,7 @@ markers:
       ', id: KR5b0321_ZTDZ_016-bkkkrnewl176}
   - {type: line-break, offset: 2852, content: '', id: KR5b0321_SJB_016-110305c18}
   - {type: punctuation, offset: 2855, content: (, id: KR5b0321_ZTDZ_016-bkkpn8}
+  - {type: voice, offset: 2855, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 2856, content: ), id: KR5b0321_ZTDZ_016-bkkpn9}
   - {type: 'kr:newline', offset: 2869, content: '
 
@@ -935,4 +939,4 @@ markers:
 
       ', id: KR5b0321_ZTDZ_016-bkkp12}
   back: []
-hash: sha256:5339c82ff7bb06d73ebe2cfd973678a3fbc4503f7509e1c4f847f787d50fbcc4
+hash: sha256:a4bce898caba463c16650a5ac1289644c1809cdcb1a4158206fbf6b18ee61b6e

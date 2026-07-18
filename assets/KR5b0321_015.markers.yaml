@@ -15,6 +15,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR5b0321_HFL_015-001a02}
   - {type: indent, offset: 0, content: 　　, id: KR5b0321_krp_015-bkkind1}
   - {type: punctuation, offset: 0, content: (, id: KR5b0321_krp_015-bkkpn1}
+  - {type: voice, offset: 0, length: 20, name: note, id: n1}
   - {type: substitution, offset: 5, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: substitution, offset: 9, original: 剰, replacement: 剩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20681}}
   - {type: punctuation, offset: 15, content: /, id: KR5b0321_krp_015-bkkpn2}
@@ -1333,4 +1334,4 @@ markers:
   - {type: variant, offset: 3720, length: 0, content: '', SBCK: 廣成集卷之十六毀四上都大清官内供奉應制文章大徳}
   - {type: page-break, offset: 3720, content: '', id: KR5b0321_SBCK_016-1a}
   back: []
-hash: sha256:7f5911e3283cfbd0d30092733c33c78b678f2875e8e81a2debcab59eab7f9c4c
+hash: sha256:8a86c0fc58fdeb8573b578c9c5511d75e0fc92d9956754c493fcd87b0c089b22
